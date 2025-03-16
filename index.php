@@ -7,8 +7,8 @@
 	<h1>MySQL Table Viewer in web app</h1>
 	<?php
 		// Define database connection variables
-		$servername = "mysqlserver10002.mysql.database.azure.com";
-		$username = "mysqladmin@mysqlserver10002";
+		$servername = "mysqlserver10003.mysql.database.azure.com";
+		$username = "mysqladmin@mysqlserver10003";
 		$password = "Hund123#";
 		$dbname = "mysqldatabase";
 
