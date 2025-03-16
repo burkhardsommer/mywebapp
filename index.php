@@ -12,7 +12,7 @@
 	<?php
 		// Define database connection variables
 		$servername = "mysqlserver10003.mysql.database.azure.com";
-		$username = "mysqladmin@mysqlserver10003";
+		$username = "mysqladmin";
 		$password = "Hund123#";
 		$dbname = "mysqldatabase";
 
